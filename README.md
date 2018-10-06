@@ -1,5 +1,5 @@
 # hello-world
-Firts gitHub repository
+First gitHub repository
 
 Hello world!!!!
 
